@@ -1,6 +1,6 @@
 # Customer_Personality_Analysis_Grocery_Firm
 
-In this project, I will be performing an unsupervised algorithm (k-means) clustering of data on the customer's data from a groceries firm's database.Customers are divided into clusters to optimize the significance of each customer to the business. Through profiling of the customers it is easier for the firm to understand their needs and also helps the business to cater to the concerns of different types of customers and which group of clusters are most profitables.
+In this project, has been selected an unsupervised algorithm (k-means) clustering of data on the customer's data from a groceries firm's database.Customers are divided into clusters to optimize the significance of each customer to the business. Through profiling of the customers it is easier for the firm to understand their needs and also helps the business to cater to the concerns of different types of customers and which group of clusters are most profitables.
 This project includes specific steps.
   
   1.Loading Data
